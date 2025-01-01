@@ -1,4 +1,4 @@
-Ce projet ESPHome anime Yoshi \'e0 l'aide de :\
+Ce projet ESPHome anime Mario & Yoshi l'aide de :
 - Deux servos : un pour tirer la langue, un pour faire courir Yoshi.\
 - 14 LEDs WS2812 pour des effets lumineux.\
 - Un module DFPlayer Mini pour jouer des sons sp\'e9cifiques.\
