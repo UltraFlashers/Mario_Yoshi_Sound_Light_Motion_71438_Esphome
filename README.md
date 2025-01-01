@@ -5,9 +5,9 @@ Ce projet ESPHome anime Mario & Yoshi l'aide de :
 \
 ## Fonctionnalités
 - **Servo pour la langue** : mouvement fluide de 0\'b0 \'e0 180\'b0.\
-- **Servo pour courir** : va-et-vient continu pour simuler la course.\
-- **Effets lumineux** : animations synchronis\'e9es avec 14 LEDs WS2812.\
-- **Son** : sons personnalis\'e9s jou\'e9s via DFPlayer Mini.\
+- **Servo pour courir**    : va-et-vient continu pour simuler la course.\
+- **Effets lumineux**      : animations synchronis\'e9es avec 14 LEDs WS2812.\
+- **Son**                  : sons personnalis\'e9s jou\'e9s via DFPlayer Mini.\
 \
 ## Mat\'e9riel requis\
 - ESP32\
