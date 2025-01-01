@@ -47,4 +47,6 @@ Ce projet ESPHome anime Mario & Yoshi l'aide de :
 ![Sch\'e9ma](assets/schema_diagram.png)
 
 ## License
-![License](/LICENSE.md)
+## Contribuer
+Voir [CONTRIBUTING.md](LICENSE.md).
+![License](LICENSE.md)
