@@ -3,6 +3,8 @@ Ce projet ESPHome anime Mario & Yoshi l'aide de :
 - 14 LEDs WS2812 pour des effets lumineux.
 - Un module DFPlayer Mini pour jouer des sons spécifiques.
 
+![71438 LEGO](Images/71438_LEGO.png)
+
 ## Fonctionnalités
 - **Servo pour la langue** : mouvement fluide de la langue
 - **Servo pour courir**    : va-et-vient continu pour simuler la course
