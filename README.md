@@ -10,12 +10,12 @@ Ce projet ESPHome anime Mario & Yoshi l'aide de :
 - **Son**                  : sons personnalisés joués via DFPlayer Mini
 
 ## Matériel requis
-- ESP32\
-- 2 Servos (1 classique, 1 \'e0 rotation continue)\
-- 14 LEDs WS2812\
-- DFPlayer Mini + haut-parleur\
-- Set LEGO Super Mario World 71438\
-- Boutons pour d\'e9clencher les animations\
+- ESP32
+- 2 Servos
+- 14 LEDs WS2812
+- DFPlayer Mini + haut-parleur
+- Set LEGO Super Mario World 71438
+- Boutons pour déclencher les animations
 \
 ## Connexions
 | Composant         | GPIO ESP32 | Remarque              |\
