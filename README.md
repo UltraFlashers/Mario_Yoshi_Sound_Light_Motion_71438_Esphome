@@ -1,6 +1,6 @@
-![71438_LEGO](https://github.com/user-attachments/assets/07662c7c-aac6-48f3-9be2-f5f4da070cbf)
 
 
+![71438_LEGO de l'image](IMAGES/image1.png)
 Ce projet ESPHome anime Mario & Yoshi l'aide de :
 - Deux servos : un pour tirer la langue, un pour faire courir Yoshi.
 - 14 LEDs WS2812 pour des effets lumineux.
