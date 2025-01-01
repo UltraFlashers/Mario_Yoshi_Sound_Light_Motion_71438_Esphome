@@ -46,3 +46,7 @@ Ce projet ESPHome anime Mario & Yoshi l'aide de :
 
 ## License
 
+MIT License
+Copyright (c) 2024 UltraFlashers
+Permission is hereby granted, free of charge, to any person obtaining a copy...
+
