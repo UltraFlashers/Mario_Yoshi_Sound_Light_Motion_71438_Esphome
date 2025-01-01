@@ -35,16 +35,16 @@ Ce projet ESPHome anime Mario & Yoshi l'aide de :
 | Bouton courir      | GPIO23     | Input avec pull-up    |
 
 ## Installation
-1. T\'e9l\'e9chargez les fichiers du projet.\
-2. Pr\'e9parez votre ESPHome en suivant [ce guide](https://esphome.io/guides/getting_started.html).\
-3. Flashez `esphome_config.yaml` sur votre ESP32.\
-4. Connectez les composants selon le sch\'e9ma.\
+1. T\'e9l\'e9chargez les fichiers du projet.
+2. Pr\'e9parez votre ESPHome en suivant [ce guide](https://esphome.io/guides/getting_started.html).
+3. Flashez `esphome_config.yaml` sur votre ESP32.
+4. Connectez les composants selon le sch\'e9ma.
 \
-## D\'e9monstration\
+## Démonstration
 ![LED Animation](assets/led_effect_demo.mp4)\
 \
-## Sch\'e9ma des connexions\
-![Sch\'e9ma](assets/schema_diagram.png)\
-\
-## License
+## Schéma des connexions
+![Sch\'e9ma](assets/schema_diagram.png)
 
+## License
+![License](License)
