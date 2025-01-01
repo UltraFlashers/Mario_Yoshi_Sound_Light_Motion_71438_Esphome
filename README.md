@@ -8,7 +8,7 @@ Ce projet ESPHome anime Mario & Yoshi l'aide de :
   
 ![71438_LEGO](https://github.com/user-attachments/assets/4d267a43-3df6-44f9-9ac5-f931399de610)
 
-![71438LEGO](Images/71438_LEGO.png)
+![71438LEGO](71438_LEGO.png)
 
 ## Fonctionnalités
 
