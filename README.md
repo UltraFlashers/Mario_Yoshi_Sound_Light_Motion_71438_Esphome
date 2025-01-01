@@ -18,15 +18,15 @@ Ce projet ESPHome anime Mario & Yoshi l'aide de :
 - Boutons pour déclencher les animations
 \
 ## Connexions
-| Composant         | GPIO ESP32 | Remarque              |\
-|--------------------|------------|-----------------------|\
-| Servo langue       | GPIO16     | Contr\'f4le classique    |\
-| Servo courir       | GPIO18     | Rotation continue     |\
-| LEDs WS2812        | GPIO21     | Alimentation 5V       |\
-| DFPlayer Mini RX   | GPIO1      | Communication s\'e9rie   |\
-| DFPlayer Mini TX   | GPIO3      | Communication s\'e9rie   |\
-| Bouton langue      | GPIO26     | Input avec pull-up    |\
-| Bouton courir      | GPIO23     | Input avec pull-up    |\
+| Composant          | GPIO ESP32 | Remarque              |
+|--------------------|------------|-----------------------|
+| Servo langue       | GPIO16     | MG90S classique       |
+| Servo courir       | GPIO18     | Rotation continue     |
+| LEDs WS2812        | GPIO21     | Alimentation 5V       |
+| DFPlayer Mini RX   | GPIO1      | Communication série   |
+| DFPlayer Mini TX   | GPIO3      | Communication série   |
+| Bouton langue      | GPIO26     | Input avec pull-up    |
+| Bouton courir      | GPIO23     | Input avec pull-up    |
 \
 ## Installation
 1. T\'e9l\'e9chargez les fichiers du projet.\
