@@ -27,7 +27,7 @@ Ce projet ESPHome anime Mario & Yoshi l'aide de :
 | DFPlayer Mini TX   | GPIO3      | Communication série   |
 | Bouton langue      | GPIO26     | Input avec pull-up    |
 | Bouton courir      | GPIO23     | Input avec pull-up    |
-\
+
 ## Installation
 1. T\'e9l\'e9chargez les fichiers du projet.\
 2. Pr\'e9parez votre ESPHome en suivant [ce guide](https://esphome.io/guides/getting_started.html).\
