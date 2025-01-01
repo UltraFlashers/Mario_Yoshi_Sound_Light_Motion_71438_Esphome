@@ -1,6 +1,4 @@
 
-
-
 Ce projet ESPHome anime Mario & Yoshi l'aide de :
 - Deux servos : un pour tirer la langue, un pour faire courir Yoshi.
 - 14 LEDs WS2812 pour des effets lumineux.
@@ -22,7 +20,7 @@ Ce projet ESPHome anime Mario & Yoshi l'aide de :
 - DFPlayer Mini + haut-parleur
 - Set LEGO Super Mario World 71438
 - Boutons pour déclencher les animations
-\
+
 ## Connexions
 | Composant          | GPIO ESP32 | Remarque              |
 |--------------------|------------|-----------------------|
@@ -35,18 +33,16 @@ Ce projet ESPHome anime Mario & Yoshi l'aide de :
 | Bouton courir      | GPIO23     | Input avec pull-up    |
 
 ## Installation
-1. T\'e9l\'e9chargez les fichiers du projet.
-2. Pr\'e9parez votre ESPHome en suivant [ce guide](https://esphome.io/guides/getting_started.html).
+1. Téléchargez les fichiers du projet.
+2. Préparez votre ESPHome en suivant [ce guide](https://esphome.io/guides/getting_started.html).
 3. Flashez `esphome_config.yaml` sur votre ESP32.
-4. Connectez les composants selon le sch\'e9ma.
-\
+4. Connectez les composants selon le schéma.
+
 ## Démonstration
-![LED Animation](assets/led_effect_demo.mp4)\
-\
+![LED Animation](assets/led_effect_demo.mp4)
+
 ## Schéma des connexions
 ![Sch\'e9ma](assets/schema_diagram.png)
 
 ## License
-## Contribuer
-Voir [CONTRIBUTING.md](LICENSE.md).
-![License](LICENSE.md)
+
