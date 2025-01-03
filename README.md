@@ -25,7 +25,7 @@ Ce projet ESPHome anime Mario & Yoshi l'aide de :
 | Composant          | GPIO ESP32 | Remarque              |
 |--------------------|------------|-----------------------|
 | Servo langue       | GPIO16     | MG90S classique       |
-| Servo courir       | GPIO18     | MG90S classique       |
+| Servo courir       | GPIO18     | Servo Standard        |
 | LEDs WS2812        | GPIO21     | Alimentation 5V       |
 | DFPlayer Mini RX   | GPIO1      | Communication série   |
 | DFPlayer Mini TX   | GPIO3      | Communication série   |
